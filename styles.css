@@ -1,0 +1,36 @@
+.Countryname
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.CountryDetails
+{
+    padding-left: 10%;
+    padding-top: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.card-img-top
+{
+    height: 200px;
+    border: solid black 2px;
+}
+.card
+{
+    height: 425px;
+    border: solid red 2px;
+    border-radius: 20px;
+    box-shadow: 15px 15px palevioletred;
+}
+.row
+{
+    row-gap: 20px   ;
+}
+.Countryname
+{
+    height: 90px;
+    text-align: center;
+}
